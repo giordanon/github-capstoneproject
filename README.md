@@ -2,7 +2,7 @@
  
 ## 'Target Weather Stations for Yield Gap Analysis' geoprocessing tool within ArcGIS Pro
 
-The tool is designed for obtaining the target weather stations with their respective buffers required for conducting a yield gap analysis under the Yield Gap Atlas protocol. The output of this tool can be used to asses how much of the crop planted area on a given country is covered by ground weather stations observations. Furthermore the output of this tool lists the weather stations that require quality control for further use on yield gap analysis. 
+This tool is designed for obtaining the target weather stations with their respective buffers required for conducting a yield gap analysis under the Yield Gap Atlas protocol. The output of this tool can be used to asses how much of the crop planted area on a given country is covered by ground weather stations observations. Furthermore the output of this tool lists the weather stations that require quality control for further use on yield gap analysis. 
 
 Any issues with this tool can be addressed to Nicolas Giordano in ngiordano@ksu.edu
 

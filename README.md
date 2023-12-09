@@ -1,4 +1,4 @@
-# github-captoneproject
+# github-capstoneproject
  
 ## 'Target Weather Stations for Yield Gap Analysis' geoprocessing tool within ArcGIS Pro
 

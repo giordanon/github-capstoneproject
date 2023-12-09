@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Capstone.py
+!CapstoneProject.atbx
+!README.md

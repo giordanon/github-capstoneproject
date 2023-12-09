@@ -31,7 +31,7 @@ Below I explain step by step procedures performed by the tool:
 ## Output
 
 
-There are 4 output feature class generated after running this tool:
+There are 4 output feature class generated after running the tool:
 
 1. Feature class containing the selected country boundaries (e.g.: 'Argentina_Boundaries').
 2. Feature class containing the climate zones that cover the desired percentage of the crop planted area (e.g.: 'Argentina_Wheat_Area_Climate_Zones').
